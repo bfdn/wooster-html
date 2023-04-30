@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Lato-Regular';
+    src: url("../fonts/Lato-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Lato-Thin';
+    src: url("../fonts/Lato-Thin.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url("../fonts/Montserrat-Regular.ttf");
+}
+
+
+
+$max-width: 1170px;
+$gutter: 30px;
+
+$text-font: 'Lato-Regular', sans-serif;
+$heading-font: 'Montserrat-Regular', sans-serif;
+$title-font: 'Lato-Thin', sans-serif;
+$font-size: 13px;
+
+
+// Renkler 
+$primary-color: #10cab7;
+
+$secondary-color: #2c4755;
+
+$three-color: #f26c4e;
+$light-color: #ffffff;
+$dark-color: #000000;
+$dark-color-light: #231f20;
+$dark-color-light2: #242424;
+
+$gray-color: #b3b3b3;
+$gray-color-dark: #777777;
+
+$border-color: #231f20;
+$border-color2: #fef9fb;
